@@ -1,0 +1,9 @@
+.footer {
+    padding: 40px 0 72px;
+    background-color: #E9DED4;
+}
+
+.footer__text {
+    opacity: 0.6;
+    font-size: 16px;
+}

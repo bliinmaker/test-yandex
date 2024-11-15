@@ -1,0 +1,26 @@
+.offer {
+    background-image: url('../../assets/images/offer-background.png');
+    background-color: #E9DED4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 65px);
+}
+
+.offer__wrap {
+    display: grid;
+    align-items: start;
+    width: 50%;
+}
+
+.offer__text {
+    font-size: 18px;
+    font-weight: 400;
+    padding: 24px 0 40px;
+}
+
+.offer__buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
